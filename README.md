@@ -1,1 +1,2 @@
 # tindog
+Tinder for dogs.
